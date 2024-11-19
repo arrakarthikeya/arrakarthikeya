@@ -21,11 +21,29 @@ Welcome to my GitHub! 🚀 I'm a driven and analytical problem-solver with a kna
 
 ---
 
-## ⚡ **Tech Stack**
-- 🐍 Python | 🖥️ SQL | 🛠️ Data Warehousing  
-- 📊 Data Visualization: Tableau | Power BI | Matplotlib | d3.js  
-- 🌐 Web Development: HTML | CSS | JavaScript | WordPress  
-- 🛡️ Software Testing: OWASP ZAP | QA Tools  
+## ⚡ Tech Stack
+Programming Languages
+Python 🐍
+SQL 🗄️
+JavaScript 🌐
+HTML5 🏗️
+CSS3 🎨
+Data Visualization & Analytics
+Tableau 📊
+Power BI 🔍
+Matplotlib 🖼️
+d3.js 📈
+Frameworks & Libraries
+React ⚛️
+jQuery 💡
+Tools & Platforms
+Git 📂
+Docker 🐳
+WordPress 🖋️
+AWS ☁️
+Databases
+PostgreSQL 🗄️
+
 
 ---
 
