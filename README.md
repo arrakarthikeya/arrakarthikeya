@@ -1,4 +1,3 @@
-Here's a tailored GitHub README bio based on your resume with some cool emojis to make it visually appealing:
 
 ---
 
