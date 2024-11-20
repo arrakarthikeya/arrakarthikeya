@@ -74,34 +74,6 @@ Welcome to my GitHub! 🚀 I'm a driven and analytical problem-solver with a kna
 - 📧 **Email**: arra.karthikeya7777@gmail.com  
 - 📞 **Phone**: +1 913-296-6294
 
-# 💻 Tech Stack
-
-## Programming Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="50" width="50" style="border-radius: 50%;">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="50" width="50" style="border-radius: 50%;">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="50" width="50" style="border-radius: 50%;">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="50" width="50" style="border-radius: 50%;">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="50" width="50" style="border-radius: 50%;">
-
-## Data Visualization & Analytics
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="50" width="50" style="border-radius: 50%;">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="50" width="50" style="border-radius: 50%;">
-<img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=python&logoColor=white" height="50" width="50" style="border-radius: 50%;">
-<img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" height="50" width="50" style="border-radius: 50%;">
-
-## Frameworks & Libraries
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="50" width="50" style="border-radius: 50%;">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="50" width="50" style="border-radius: 50%;">
-
-## Tools & Platforms
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="50" width="50" style="border-radius: 50%;">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="50" width="50" style="border-radius: 50%;">
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="50" width="50" style="border-radius: 50%;">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="50" width="50" style="border-radius: 50%;">
-
-## Databases
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="50" width="50" style="border-radius: 50%;">
-
 
 ---
 
