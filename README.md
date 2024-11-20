@@ -1,11 +1,9 @@
 
 ---
 
-# 👋 Hello, World! I'm **Karthikeya Arra**  
+<h1 align="left">👋 Hello, World! I'm Karthikeya Arra<br></h1>
+<h4🌟 Computer Science Enthusiast | 📍 Kansas City, MO | 💻 Passionate Developer<br><br>Welcome to my GitHub! 🚀 I'm a driven and analytical problem-solver with a knack for developing machine learning models, analyzing massive datasets, and crafting innovative software solutions. Here's a bit more about me:</h4>
 
-🌟 **Computer Science Enthusiast** | 📍 Kansas City, MO | 💻 Passionate Developer  
-
-Welcome to my GitHub! 🚀 I'm a driven and analytical problem-solver with a knack for developing machine learning models, analyzing massive datasets, and crafting innovative software solutions. Here's a bit more about me:  
 
 ---
 
@@ -16,7 +14,26 @@ Welcome to my GitHub! 🚀 I'm a driven and analytical problem-solver with a kna
 
 - **Experience**:  
   🛠️ *Web Developer & Business Administrator* at Vertocity  
-  🔧 *Programmer Analyst Intern* at Verzio  
+  🔧 *Programmer Analyst Intern* at Verzio
+
+  ###
+
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"  />
+
+###
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arrakarthikeya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arrakarthikeya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+
+
 
 ---
 - # 💻 Tech Stack
@@ -73,17 +90,18 @@ Welcome to my GitHub! 🚀 I'm a driven and analytical problem-solver with a kna
 - 💼 [Portfolio](https://arrakarthikeya.netlify.app/)  
 - 📧 **Email**: arra.karthikeya7777@gmail.com  
 - 📞 **Phone**: +1 913-296-6294
+- ###
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
 
 
----
 
-🔗 **Let's collaborate on something amazing!** Feel free to explore my repositories or reach out to discuss exciting projects and ideas. 🚀✨  
 
----
-
-You can copy and paste this into your GitHub README file. Let me know if you'd like to adjust any section! 😊
-
-<!---
-arrakarthikeya/arrakarthikeya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
