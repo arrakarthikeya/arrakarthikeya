@@ -1,13 +1,12 @@
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhzNTBzOWdlcnV3Y2ltOW9nZzdyczhma2NhZzdmN3MwYnNseTZmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ps89uHS7n72j6/giphy.gif"  />
 
----
+<h1 align="center">👋 Hello, World!<br>I'm Karthikeya Arra</h1>
 
-<h1 align="center">👋 Hello, World! </h1>
-<h1 align="center">I'm Karthikeya Arra</h1>
+
 
 🌟 Computer Science Enthusiast | 📍 Kansas City, MO | 💻 Passionate Developer<br><br>Welcome to my GitHub! 🚀 I'm a driven and analytical problem-solver with a knack for developing machine learning models, analyzing massive datasets, and crafting innovative software solutions. Here's a bit more about me:</h4>
 
 
----
 
 ## 🎓 **About Me**
 - **Education**:  
