@@ -19,59 +19,6 @@ Welcome to my GitHub! 🚀 I'm a driven and analytical problem-solver with a kna
   🔧 *Programmer Analyst Intern* at Verzio  
 
 ---
-
-## ⚡ Tech Stack
-Programming Languages
-Python 🐍
-SQL 🗄️
-JavaScript 🌐
-HTML5 🏗️
-CSS3 🎨
-Data Visualization & Analytics
-Tableau 📊
-Power BI 🔍
-Matplotlib 🖼️
-d3.js 📈
-Frameworks & Libraries
-React ⚛️
-jQuery 💡
-Tools & Platforms
-Git 📂
-Docker 🐳
-WordPress 🖋️
-AWS ☁️
-Databases
-PostgreSQL 🗄️
-
-
----
-
-## 🌟 **Key Projects**
-- 🎮 Developed a digital version of **Nine Men's Morris Game**, focusing on secure software design principles.  
-- 🤖 Explored the **Effect of Social Media User Behavior on Threats** using ML classifiers like GPC and QDA.  
-
----
-
-## 🎯 **Certifications**
-- 🏅 HackerRank Certified in Python (Basic)  
-- 🎖️ Machine Learning with Python - Verzio  
-- 📜 Web Design & Development - Vertocity  
-- 🎓 Coursera: Mathematical Thinking in CS & OWASP ZAP  
-
----
-
-## 🚀 **What I Love to Do**
-- Building intuitive, scalable solutions for complex problems 🧠  
-- Transforming raw data into actionable insights 📈  
-- Exploring new technologies and learning continuously 🌱  
-
----
-
-## 🌐 **Find Me Here**
-- 💼 [Portfolio](https://arrakarthikeya.netlify.app/)  
-- 📧 **Email**: arra.karthikeya7777@gmail.com  
-- 📞 **Phone**: +1 913-296-6294
-
 - # 💻 Tech Stack
 
 ## Programming Languages
@@ -99,7 +46,33 @@ PostgreSQL 🗄️
 
 ## Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
+## 🌟 **Key Projects**
+- 🎮 Developed a digital version of **Nine Men's Morris Game**, focusing on secure software design principles.  
+- 🤖 Explored the **Effect of Social Media User Behavior on Threats** using ML classifiers like GPC and QDA.  
+
+---
+
+## 🎯 **Certifications**
+- 🏅 HackerRank Certified in Python (Basic)  
+- 🎖️ Machine Learning with Python - Verzio  
+- 📜 Web Design & Development - Vertocity  
+- 🎓 Coursera: Mathematical Thinking in CS & OWASP ZAP  
+
+---
+
+## 🚀 **What I Love to Do**
+- Building intuitive, scalable solutions for complex problems 🧠  
+- Transforming raw data into actionable insights 📈  
+- Exploring new technologies and learning continuously 🌱  
+
+---
+
+## 🌐 **Find Me Here**
+- 💼 [Portfolio](https://arrakarthikeya.netlify.app/)  
+- 📧 **Email**: arra.karthikeya7777@gmail.com  
+- 📞 **Phone**: +1 913-296-6294
 
 ---
 
