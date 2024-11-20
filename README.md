@@ -1,8 +1,10 @@
 
 ---
 
-<h1 align="left">👋 Hello, World! I'm Karthikeya Arra<br></h1>
-<h4🌟 Computer Science Enthusiast | 📍 Kansas City, MO | 💻 Passionate Developer<br><br>Welcome to my GitHub! 🚀 I'm a driven and analytical problem-solver with a knack for developing machine learning models, analyzing massive datasets, and crafting innovative software solutions. Here's a bit more about me:</h4>
+<h1 align="center">👋 Hello, World! </h1>
+<h1 align="center">I'm Karthikeya Arra</h1>
+
+🌟 Computer Science Enthusiast | 📍 Kansas City, MO | 💻 Passionate Developer<br><br>Welcome to my GitHub! 🚀 I'm a driven and analytical problem-solver with a knack for developing machine learning models, analyzing massive datasets, and crafting innovative software solutions. Here's a bit more about me:</h4>
 
 
 ---
@@ -22,7 +24,6 @@
 
 ###
 
-
 ###
 
 <div align="center">
@@ -31,6 +32,9 @@
 </div>
 
 ###
+![GitHub Snake Animation](https://raw.githubusercontent.com/arrakarthikeya/snakesvg/main/github-user-contribution.svg)
+
+
 
 
 
@@ -101,6 +105,7 @@
 </div>
 
 ###
+
 
 
 
