@@ -102,10 +102,6 @@ Welcome to my GitHub! 🚀 I'm a driven and analytical problem-solver with a kna
 ## Databases
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="50" width="50" style="border-radius: 50%;">
 
-<svg height="100" width="100">
-  <circle cx="50" cy="50" r="40" fill="blue" />
-  <text x="50%" y="50%" text-anchor="middle" fill="white" font-size="12px" dy=".3em">Python</text>
-</svg>
 
 ---
 
