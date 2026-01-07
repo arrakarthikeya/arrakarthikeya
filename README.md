@@ -4,7 +4,7 @@
 
 
 
-🌟 Computer Science Enthusiast | 📍 Kansas City, MO | 💻 Passionate Developer<br><br>Welcome to my GitHub! 🚀 I'm a driven and analytical problem-solver with a knack for developing machine learning models, analyzing massive datasets, and crafting innovative software solutions. Here's a bit more about me:</h4>
+🌟 Computer Science Enthusiast | 📍 Kansas City, MO | AIML Engineer <br><br>Welcome to my GitHub! 🚀 I'm a driven and analytical problem-solver with a knack for developing machine learning models, analyzing massive datasets, and crafting innovative software solutions. Here's a bit more about me:</h4>
 
 
 
@@ -90,7 +90,7 @@
 ## 🌐 **Find Me Here**
 - 💼 [Portfolio](https://arrakarthikeya.netlify.app/)  
 - 📧 **Email**: arra.karthikeya7777@gmail.com  
-- 📞 **Phone**: +1 913-296-6294
+- 📞 **Phone**: +1 913-3913109
 - ###
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
